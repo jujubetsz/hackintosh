@@ -4,9 +4,9 @@
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.3-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-![alt text](https://github.com/[jujubetsz]/hackintosh/blob/main/geek_bench.png?raw=true "Geek Bench")
-![alt text](https://github.com/[jujubetsz]/hackintosh/blob/main/displays.png?raw=true "Display Info")
-![alt text](https://github.com/[jujubetsz]/hackintosh/blob/main/system_info.jpg?raw=true "System Info")
+![alt text](https://github.com/jujubetsz/hackintosh/blob/main/geek_bench.png?raw=true "Geek Bench")
+![alt text](https://github.com/jujubetsz/hackintosh/blob/main/displays.png?raw=true "Display Info")
+![alt text](https://github.com/jujubetsz/hackintosh/blob/main/system_info.jpg?raw=true "System Info")
 
 ## Disclaimer
 Please, create SMBios values for you... Don't copy ones shown here.
