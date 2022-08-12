@@ -43,4 +43,4 @@ Please, create SMBios values for you... Don't copy ones shown here.
 ## Credits and links
 
 * [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide)
-* [Reddit] (https://www.reddit.com/r/hackintosh/comments/wmmtfk/first_hackintosh_o_monterey_amd/)
+* [Reddit](https://www.reddit.com/r/hackintosh/comments/wmmtfk/first_hackintosh_o_monterey_amd/)
