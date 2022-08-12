@@ -6,7 +6,10 @@
 
 ![alt text]([https://github.com/jujubetsz/hackintosh/blob/main/geek_bench.png](https://github.com/jujubetsz/hackintosh/blob/main/screen/geek_bench.png)?raw=true "Geek Bench")
 ![alt text]([https://github.com/jujubetsz/hackintosh/blob/main/displays.png](https://github.com/jujubetsz/hackintosh/blob/main/screen/displays.png)?raw=true "Display Info")
-![alt text]([https://github.com/jujubetsz/hackintosh/blob/main/system_info.jpg](https://github.com/jujubetsz/hackintosh/blob/main/screen/system_info.jpg)?raw=true "System Info")
+![alt text]([[https://github.com/jujubetsz/hackintosh/blob/main/system_info.jpg](https://github.com/jujubetsz/hackintosh/blob/main/screen/system_info.jpg)](https://github.com/jujubetsz/hackintosh/blob/main/screen/system_info.jpg?raw=true)?raw=true "System Info")
+
+
+![Alt text](https://github.com/jujubetsz/hackintosh/blob/main/screen/system_info.jpg?raw=true "System Info")
 
 ## Disclaimer
 Please, create SMBios values for you... Don't copy ones shown here.
