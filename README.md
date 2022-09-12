@@ -39,6 +39,7 @@ Please, create SMBios values for you... Don't copy ones shown here.
 
 * Sleep 
 * Sidecar
+* Docker 
 
 ## Credits and links
 
